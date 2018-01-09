@@ -1,0 +1,276 @@
+ body,html{height:100%;padding:0px;margin:0px;background:url(../img/fondo_espacial.jpg) no-repeat center center fixed;
+background-size: cover;}
+ html {
+                height: 100%;
+                padding: 0px;
+                margin: 0px;
+            }
+          
+            .c {
+                display: block !important
+            }
+            
+            .a,.b,.c {
+                display: inline-block;
+                width: 33.33%;
+                height: 100%;
+                float: left;
+            }
+            
+            .d {
+                bottom: -1%;
+                position: fixed;
+                width: 100%;
+            }
+        
+            
+            #nave {
+                text-align: center;
+                position: fixed;
+                top: 10%;
+                width: 100%;
+                height: 20%;
+                z-index:6;
+            }
+            
+            #nave img {
+                height: 100%;
+            }
+            
+            #cpanel {
+                color: black;
+            }
+            
+            #hidem,
+            #showm {
+                display: none
+            }
+            
+            #menu {
+                position: fixed;
+                right: 0;
+                top: 0;
+                width: 50%;
+                height: 20%;
+                color: black;
+				z-index:7;
+            }
+            
+            .panel {
+				border-radius:18px;
+                width: auto;
+                height: auto;
+                max-width: 100px;
+                background-color: #32d4dc;
+                margin: 20px;
+                border-style: outset;
+                border-color: #7727f9;
+                font-size: 100%;
+                padding: 2px;
+                margin-bottom: 15px;
+            }
+            
+            #reanudar:active {
+                border-style: inset;
+            }
+            
+            #reanudar:hover {
+                background-color: blue;
+                font-size: 100%;
+            }
+            
+            #pausa:active {
+                border-style: inset;
+            }
+            
+            #pausa:hover {
+                background-color: blue;
+                font-size: 100%;
+            }
+            
+            #reinicia:active {
+                border-style: inset;
+            }
+            
+            #reinicia:hover {
+                background-color: blue;
+                font-size: 100%;
+            }
+            
+            #instrucciones:active {
+                border-style: inset;
+            }
+            
+            #instrucciones:hover {
+                background-color: blue;
+                font-size: 100%;
+            }
+            
+            #close:active {
+                border-style: inset;
+            }
+            
+            #close:hover {
+                background-color: blue;
+            }
+            
+            #reanudar {
+               border-radius:20px;
+			   border-style: outset;
+                background-color: #32d4dc;
+                display: none;
+                float: right;
+                border-color: #7727f9;
+                margin: 10px;
+                margin-top: 5%;
+                color: black;
+                text-align: center;
+                width: 70px;
+                height: 70px;
+                background-image: url("../img/icono_play.PNG");
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-position: 50% 50%;
+                pointer-events: auto;
+            }
+            
+            #reanudar p {
+                margin-top: 0px;
+            }
+            
+            #pausa {
+				border-radius:20px;
+                border-style: outset;
+                background-color: #32d4dc;
+                display: inline-block;
+                float: right;
+                border-color: #7727f9;
+                margin: 10px;
+                margin-top: 5%;
+                color: black;
+                text-align: center;
+                font-size: 0%;
+                width: 70px;
+                height: 70px;
+                background-image: url("../img/icono_pausa.PNG");
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-position: 50% 50%;
+            }
+            
+            #reinicia {
+				border-radius:20px;
+                border-style: outset;
+                background-color: #32d4dc;
+                display: inline-block;
+                float: right;
+                border-color: #7727f9;
+                width: 70px;
+                height: 70px;
+                font-size: 0%;
+                color: black;
+                text-align: center;
+                vertical-align: text-top;
+                margin: 10px;
+                margin-top: 5%;
+                background-image: url("../img/icono_retry.PNG");
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-position: 50% 50%;
+            }
+            
+            #reinicia p {
+                margin-top: 0px;
+            }
+            
+            #instrucciones {
+				border-radius:20px;
+                border-style: outset;
+                background-color: #32d4dc;
+                display: inline-block;
+                float: right;
+                border-color: #7727f9;
+                margin: 10px;
+                margin-top: 5%;
+                width: 70px;
+                height: 70px;
+                color: black;
+                text-align: center;
+                font-size: 0%;
+                background-image: url("../img/icono_menu.png");
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-position: 50% 50%;
+            }
+            
+            #instrucciones p {
+                margin-top: 0px;
+				
+            }
+            
+            #menuInstrucciones {
+                margin: 5%;
+                background-image: url("../img/fondo_espacial.jpg");
+                text-align: center;
+                border-style: outset;
+                position: absolute;
+                display: none;
+                margin-left: 34%;
+                margin-top: 20%;
+                margin-top: 10%;
+				z-index:10;
+				color:#32d4dc;
+            }
+            
+            #menuInstrucciones b {
+                border-style: outset;
+            }
+            
+            #menuInstrucciones p {
+                margin: 2%;
+            }
+            
+            #cerrar {
+                width: 15%;
+                max-width: 50px;
+                position: absolute;
+                top: 2px;
+                right: 2px;
+            }
+            
+            #imgNave {
+                height: 100%;
+                display: block;
+                margin: auto;
+            }
+            
+        #JA{
+			font-size:30px;
+		}
+            #astronauta			{
+                    display: none;
+                position: fixed;
+                max-width: 70px;
+                max-height: 70px;
+                margin-top: 46%;
+                margin-left: 8%;
+            
+            }
+            
+            #win {
+                display: none;
+                max-width: 70%;
+                max-height: 70%;
+                margin-top: 12%;
+                margin-right: 18%;
+                z-index: 9;
+            }
+            
+            #fail {
+                display: none;
+                max-width: 100%;
+                max-height: 100%;
+                margin-top: 11%;
+                margin-right: 18%;
+				z-index:9;
+            }
