@@ -22,7 +22,7 @@ https://www.w3schools.com/, Moodle, Foros,etc
 ## Resultados del proyecto
 
 ## Nave
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/nave_apagada.jpg) 
+![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/nave_apagada.png) 
 
 ## Nave destruida
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/nave.jpg)
+![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/nave.png)
