@@ -19,6 +19,18 @@ El juego Lunar Lander consiste en aterrizar la nave de tal forma que no se estre
 
 https://www.w3schools.com/, Moodle, Foros,etc
 
+## Descripción del proyecto
+
+Empezamos el proyecto siguiendo un proyecto anterior con HTML y CSS en el cual añadiremos JavaScript
+
++ *Cogemos el proyecto anterior y le añadimos JavaScript básico*
+
++ *Al adaptar el JsvaScript básico, añadimos todas las tareas restantes para completar el proyecto*
+
++ *Al acabar el proyecto usamos el validator de HTML https://validator.w3.org/ y CSS https://jigsaw.w3.org/css-validator/*
+
++ *Después de validar HTML y CSS procedemos a crear un branch en el cuál subiremos el trabajo minimificado para ello usamos el minimificador de HTML y CSS ambos en el mismo enlace http://minifycode.com/html-minifier/ *
+
 ## imágenes del proyecto:
 
 ## Explosión
