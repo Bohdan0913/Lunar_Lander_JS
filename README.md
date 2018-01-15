@@ -27,8 +27,5 @@ https://www.w3schools.com/, Moodle, Foros,etc
 ## Nave
 ![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/nave.png)
 
-## Astronauta
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/astronauta.png)
-
 ## Fondo
 ![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/fondo_espacial.jpg)
