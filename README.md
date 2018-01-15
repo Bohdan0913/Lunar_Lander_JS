@@ -29,9 +29,9 @@ Empezamos el proyecto siguiendo un proyecto anterior con HTML y CSS en el cual a
 
 + *Al acabar el proyecto usamos el validator de HTML https://validator.w3.org/ y CSS https://jigsaw.w3.org/css-validator/*
 
-+ *Después de validar HTML y CSS procedemos a crear un branch en el cuál subiremos el trabajo minimificado para ello usamos el minimificador de HTML y CSS ambos en el mismo enlace http://minifycode.com/html-minifier/*
++ *Después de validar HTML y CSS procedemos a crear un branch en el cuál subiremos el trabajo minificado para ello usamos el minificador de HTML y CSS ambos en el mismo enlace http://minifycode.com/html-minifier/*
 
-## imágenes del proyecto:
+## Resultado final de algunas las imágenes:
 
 ## Explosión
 ![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/explosion.gif) 
@@ -42,8 +42,3 @@ Empezamos el proyecto siguiendo un proyecto anterior con HTML y CSS en el cual a
 ## Fondo
 ![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/fondo_espacial.jpg)
 
-## Botónes
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/icono_menu.png)
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/icono_pausa.png)
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/icono_play.png)
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/icono_retry.png)
