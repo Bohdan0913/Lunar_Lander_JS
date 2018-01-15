@@ -21,5 +21,8 @@ https://www.w3schools.com/, Moodle, Foros,etc
 
 ## Resultados del proyecto
 
-## Desktop
-![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/fondo_espacial.jpg) 
+## Nave
+![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/nave_apagada.jpg) 
+
+## Nave destruida
+![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/nave.jpg)
