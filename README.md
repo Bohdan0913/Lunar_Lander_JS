@@ -19,7 +19,7 @@ El juego Lunar Lander consiste en aterrizar la nave de tal forma que no se estre
 
 https://www.w3schools.com/, Moodle, Foros,etc
 
-## Algunas imágenes del proyecto:
+## imágenes del proyecto:
 
 ## Explosión
 ![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/explosion.gif) 
@@ -29,3 +29,6 @@ https://www.w3schools.com/, Moodle, Foros,etc
 
 ## Astronauta
 ![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/astronauta.png)
+
+## Fondo
+![Imagen vertical](https://github.com/Bohdan0913/Lunar_Lander_JS/blob/master/img/fondo_espacial.jpg)
